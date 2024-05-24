@@ -1,0 +1,27 @@
+div.mdl-card {
+	width: 512px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+div.mdl-card__title {
+	background-color: #3F51B5;
+	color: white;
+	height: 150px;
+}
+
+textarea.mdl-textfield__input {
+	width: 512px;
+}
+
+div.spinner {
+	display: none;
+}
+
+span.check {
+	color: #78A75A;
+}
+
+.success-message {
+	display: none;
+}
